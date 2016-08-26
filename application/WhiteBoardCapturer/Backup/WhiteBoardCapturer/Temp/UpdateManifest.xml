@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UpdateManifest>
+	<Application Name="ApplicationName" MajorVersion="0" MinorVersion="0" Build="0">
+		<Files>
+			<File FileName="download/filename.cab" FileType="0" MajorVersion="0" MinorVersion="0" Build="0" />
+			<File FileName="download/filename.cab" FileType="0" MajorVersion="0" MinorVersion="0" Build="0" />
+			<File FileName="download/filename.cab" FileType="0" MajorVersion="0" MinorVersion="0" Build="0" />
+		</Files>
+		<Actions>
+			<Action Command="0" OperandA="" OperandB="" />
+			<Action Command="0" OperandA="" OperandB="" />
+			<Action Command="0" OperandA="" OperandB="" />
+		</Actions>
+	</Application>
+</UpdateManifest>
+<!-- 
+	FileType
+		0 = .* unspecified file.
+		1 = .CAB file
+		2 = .EXE file
+		3 = .REG file
+		4 = .BIN file
+		5 = .XML file
+		6 = .TXT file
+-->
+<!-- 
+	Command
+		0 = No action
+		1 = Create directory ( OperandA = Path/DirectoryName                             )
+		2 = Delete directory ( OperandA = Path/DirectoryName                             )
+		3 = Rename directory ( OperandA = Path/OldName,     Operand B = Path/NewName     )
+		4 = Move file        ( OperandA = OldPath/FileName, Operand B = NewPath/FileName )		
+-->

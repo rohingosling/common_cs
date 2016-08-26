@@ -1,0 +1,8 @@
+R:\Projects\WhiteBoardCapturer\WhiteBoardCapturer\obj\x86\Release\ResolveAssemblyReference.cache
+R:\Projects\WhiteBoardCapturer\WhiteBoardCapturer\obj\x86\Release\WhiteBoardCapturer.FormMain.resources
+R:\Projects\WhiteBoardCapturer\WhiteBoardCapturer\obj\x86\Release\GenerateResource.read.1.tlog
+R:\Projects\WhiteBoardCapturer\WhiteBoardCapturer\obj\x86\Release\GenerateResource.write.1.tlog
+R:\Projects\WhiteBoardCapturer\WhiteBoardCapturer\bin\Release\WhiteBoardCapturer.exe.config
+R:\Projects\WhiteBoardCapturer\WhiteBoardCapturer\bin\Release\WhiteBoardCapturer.exe
+R:\Projects\WhiteBoardCapturer\WhiteBoardCapturer\obj\x86\Release\WhiteBoardCapturer.exe
+R:\Projects\WhiteBoardCapturer\WhiteBoardCapturer\obj\x86\Release\WhiteBoardCapturer.Properties.Resources.resources

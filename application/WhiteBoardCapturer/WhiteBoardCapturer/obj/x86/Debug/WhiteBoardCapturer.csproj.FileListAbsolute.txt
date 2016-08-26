@@ -1,0 +1,22 @@
+R:\Projects\WhiteBoardCapturer\WhiteBoardCapturer\bin\Debug\WhiteBoardCapturer.exe.config
+R:\Projects\WhiteBoardCapturer\WhiteBoardCapturer\bin\Debug\WhiteBoardCapturer.exe
+R:\Projects\WhiteBoardCapturer\WhiteBoardCapturer\bin\Debug\WhiteBoardCapturer.pdb
+R:\Projects\WhiteBoardCapturer\WhiteBoardCapturer\obj\x86\Debug\ResolveAssemblyReference.cache
+R:\Projects\WhiteBoardCapturer\WhiteBoardCapturer\obj\x86\Debug\WhiteBoardCapturer.FormMain.resources
+R:\Projects\WhiteBoardCapturer\WhiteBoardCapturer\obj\x86\Debug\GenerateResource.read.1.tlog
+R:\Projects\WhiteBoardCapturer\WhiteBoardCapturer\obj\x86\Debug\GenerateResource.write.1.tlog
+R:\Projects\WhiteBoardCapturer\WhiteBoardCapturer\obj\x86\Debug\WhiteBoardCapturer.exe
+R:\Projects\WhiteBoardCapturer\WhiteBoardCapturer\obj\x86\Debug\WhiteBoardCapturer.pdb
+R:\Projects\WhiteBoardCapturer\WhiteBoardCapturer\obj\x86\Debug\GenerateResource.read.4.tlog
+R:\Projects\WhiteBoardCapturer\WhiteBoardCapturer\obj\x86\Debug\GenerateResource.read.3.tlog
+R:\Projects\WhiteBoardCapturer\WhiteBoardCapturer\obj\x86\Debug\WhiteBoardCapturer.Properties.Resources.resources
+C:\Projects\R\1. Development\Projects\WhiteBoardCapturer\WhiteBoardCapturer\bin\Debug\WhiteBoardCapturer.exe.config
+C:\Projects\R\1. Development\Projects\WhiteBoardCapturer\WhiteBoardCapturer\obj\x86\Debug\WhiteBoardCapturer.exe
+C:\Projects\R\1. Development\Projects\WhiteBoardCapturer\WhiteBoardCapturer\obj\x86\Debug\WhiteBoardCapturer.pdb
+C:\Projects\R\1. Development\Projects\WhiteBoardCapturer\WhiteBoardCapturer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projects\R\1. Development\Projects\WhiteBoardCapturer\WhiteBoardCapturer\obj\x86\Debug\WhiteBoardCapturer.FormMain.resources
+C:\Projects\R\1. Development\Projects\WhiteBoardCapturer\WhiteBoardCapturer\obj\x86\Debug\WhiteBoardCapturer.Properties.Resources.resources
+C:\Projects\R\1. Development\Projects\WhiteBoardCapturer\WhiteBoardCapturer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Projects\R\1. Development\Projects\WhiteBoardCapturer\WhiteBoardCapturer\obj\x86\Debug\GenerateResource.read.3.tlog
+C:\Projects\R\1. Development\Projects\WhiteBoardCapturer\WhiteBoardCapturer\obj\x86\Debug\GenerateResource.read.4.tlog
+C:\Projects\R\1. Development\Projects\WhiteBoardCapturer\WhiteBoardCapturer\obj\x86\Debug\GenerateResource.write.1.tlog

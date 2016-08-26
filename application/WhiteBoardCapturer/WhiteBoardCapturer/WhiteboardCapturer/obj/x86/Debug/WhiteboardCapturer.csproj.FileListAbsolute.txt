@@ -1,0 +1,6 @@
+R:\Projects\WhiteBoardCapturer\WhiteBoardCapturer\WhiteboardCapturer\bin\Debug\WhiteboardCapturer.exe.config
+R:\Projects\WhiteBoardCapturer\WhiteBoardCapturer\WhiteboardCapturer\bin\Debug\WhiteboardCapturer.exe
+R:\Projects\WhiteBoardCapturer\WhiteBoardCapturer\WhiteboardCapturer\bin\Debug\WhiteboardCapturer.pdb
+R:\Projects\WhiteBoardCapturer\WhiteBoardCapturer\WhiteboardCapturer\obj\x86\Debug\WhiteboardCapturer.csprojResolveAssemblyReference.cache
+R:\Projects\WhiteBoardCapturer\WhiteBoardCapturer\WhiteboardCapturer\obj\x86\Debug\WhiteboardCapturer.exe
+R:\Projects\WhiteBoardCapturer\WhiteBoardCapturer\WhiteboardCapturer\obj\x86\Debug\WhiteboardCapturer.pdb
