@@ -1,0 +1,21 @@
+C:\Documents and Settings\Rohin\Local Settings\Application Data\Temporary Projects\GenomeNotepad\bin\Debug\GenomeNotepad.exe
+C:\Documents and Settings\Rohin\Local Settings\Application Data\Temporary Projects\GenomeNotepad\bin\Debug\GenomeNotepad.pdb
+C:\Documents and Settings\Rohin\Local Settings\Application Data\Temporary Projects\GenomeNotepad\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Rohin\Local Settings\Application Data\Temporary Projects\GenomeNotepad\obj\x86\Debug\GenomeNotepad.FormMain.resources
+C:\Documents and Settings\Rohin\Local Settings\Application Data\Temporary Projects\GenomeNotepad\obj\x86\Debug\GenomeNotepad.Properties.Resources.resources
+C:\Documents and Settings\Rohin\Local Settings\Application Data\Temporary Projects\GenomeNotepad\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Rohin\Local Settings\Application Data\Temporary Projects\GenomeNotepad\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Rohin\Local Settings\Application Data\Temporary Projects\GenomeNotepad\obj\x86\Debug\GenomeNotepad.exe
+C:\Documents and Settings\Rohin\Local Settings\Application Data\Temporary Projects\GenomeNotepad\obj\x86\Debug\GenomeNotepad.pdb
+R:\Projects\Genome Studio\GenomeNotepad\GenomeNotepad\obj\x86\Debug\GenomeNotepad.exe
+R:\Projects\Genome Studio\GenomeNotepad\GenomeNotepad\obj\x86\Debug\GenomeNotepad.pdb
+R:\Projects\Genome Studio\GenomeNotepad\GenomeNotepad\bin\Debug\GenomeNotepad.exe
+R:\Projects\Genome Studio\GenomeNotepad\GenomeNotepad\bin\Debug\GenomeNotepad.pdb
+R:\Projects\Genome Studio\GenomeNotepad\GenomeNotepad\obj\x86\Debug\GenomeNotepad.FormMain.resources
+R:\Projects\Genome Studio\GenomeNotepad\GenomeNotepad\obj\x86\Debug\GenomeNotepad.Properties.Resources.resources
+R:\Projects\Genome Studio\GenomeNotepad\GenomeNotepad\obj\x86\Debug\GenomeNotepad.AboutBox.resources
+R:\Projects\Genome Studio\GenomeNotepad\GenomeNotepad\obj\x86\Debug\GenomeNotepad.StringTable.resources
+R:\Projects\Genome Studio\GenomeNotepad\GenomeNotepad\bin\Debug\GenomeNotepad.exe.config
+R:\Projects\Genome Studio\GenomeNotepad\GenomeNotepad\obj\x86\Debug\GenomeNotepad.TestEditor.resources
+R:\Projects\Genome Studio\GenomeNotepad\GenomeNotepad\obj\x86\Debug\GenomeNotepad.csprojResolveAssemblyReference.cache
+R:\Projects\Genome Studio\GenomeNotepad\GenomeNotepad\obj\x86\Debug\GenomeNotepad.csproj.GenerateResource.Cache

@@ -1,0 +1,101 @@
+//-----------------------------------------------------------------------------
+// Project: Liniar Genome Assembly Language (LGAL) Example
+// Author:  Rohin A Gosling
+// Company: Metalcom Technologies (PTY) LTD 
+//-----------------------------------------------------------------------------
+
+// Initialise assembler parameters.
+
+#CodonWidth = 3
+#BaseAlignment = 3
+#CodonAlignment = 3
+#PromoterAlignment = 3
+#RibosomeBindingSiteAlignment = 3
+#CodingRegionAlignment = 3
+#NonCodingRegionAlignment = 3
+#TerminatorAlignment = 3
+#SequenceAlignment = 3
+
+// mDNA Bases
+
+Base T = 0;
+Base C = 1;
+Base A = 2;
+Base G = 3;
+
+//-----------------------------------------------------------------------------
+// Main sequence
+//-----------------------------------------------------------------------------
+
+Sequence Main
+{
+  #Repeat 10
+    Telomere;
+  #End
+
+  SyntheticOxytocin;
+
+  #Repeat 10
+    Telomere;
+  #End
+}
+
+//-----------------------------------------------------------------------------
+// Start Codon
+//-----------------------------------------------------------------------------
+
+Sequence Start
+{
+  Codon ( ATG );
+}
+
+//-----------------------------------------------------------------------------
+// Terminator Codons
+//-----------------------------------------------------------------------------
+
+Terminator StopTAA { Codon ( TAA ); }
+Terminator StopTGG { Codon ( TGG ); }
+Terminator StopTGA { Codon ( TGA ); }
+Terminator Stop    { StopTAA; }
+
+//-----------------------------------------------------------------------------
+// Synthetic Oxytocin
+//-----------------------------------------------------------------------------
+
+CodingRegion SyntheticOxytocin
+{
+  Start;
+
+  Codon ( TGT, TAT, ATT, CAA, AAT, TGT, CCT, CTT, GGT );
+
+  Stop;
+}
+
+//-----------------------------------------------------------------------------
+// Vertibrate Telomere
+//-----------------------------------------------------------------------------
+
+Sequence Telomere
+{
+  Base ( TTAGGG );
+}
+
+
+// --------------------------------------------------------------------------------------------------------------
+// Program Output:
+// --------------------------------------------------------------------------------------------------------------
+// Address: 0   1   2   3   4   5   6   7   8   9   10  11  12  13  14  15  16  17  18  19   Encoding
+// --------------------------------------------------------------------------------------------------------------
+// 0000000: TTA GGG TTA GGG TTA GGG TTA GGG TTA GGG-TTA GGG TTA GGG TTA GGG TTA GGG TTA GGG  ····················
+// 0000020: ATG TGT TAT ATT CAA AAT TGT CCT CTT GGT-TTA TAA GGG TTA GGG TTA GGG TTA GGG TTA  MCTIQNCPLG#·········
+// 0000040: GGG TTA GGG TTA GGG TTA GGG TTA GGG TTA-GGG ... ... ... ... ... ... ... ... ...  ···········          
+// --------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
